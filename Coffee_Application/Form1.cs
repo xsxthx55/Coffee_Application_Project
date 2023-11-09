@@ -53,14 +53,6 @@ namespace Coffee_Application
             menuPanel.Visible = true;
             //adoptionPanel.Visible = false;
 
-            label1.BringToFront();
-            label2.BringToFront();
-            linkLabel1.BringToFront();
-            linkLabel2.BringToFront();
-            linkLabel3.BringToFront();
-
-            menuPanel
-
         }
     }
 }
